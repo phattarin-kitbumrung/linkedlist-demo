@@ -1,5 +1,5 @@
 # linkedlist
-This repositories created to study about main concept of linkedlist
+This repository created to study about main concept of linkedlist
 
 # references
 https://kenjj.medium.com/linked-list-with-typescript-ea8c88276e2e
